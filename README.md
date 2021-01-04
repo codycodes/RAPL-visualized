@@ -1,4 +1,4 @@
-# RAPL-visualize
+# RAPL-visualized
 Visualize real-time RAPL (Running Average Power Limit) usage using Home Assistant (running on Ubuntu Linux) and Microsoft Power BI
 
 ## About
